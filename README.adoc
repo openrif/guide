@@ -1,3 +1,3 @@
 = The OpenRIF Guide
 
-This is the OpenRIF guide.
+This is the OpenRIF guide. Based on GitBook: https://github.com/GitbookIO/gitbook
