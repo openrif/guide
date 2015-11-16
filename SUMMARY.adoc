@@ -1,6 +1,9 @@
 = Summary
 
 . link:README.adoc[The OpenRIF Guide]
-. link:section/introduction.adoc[Introduction]
-.. link:section/introduction-sub.adoc[Introduction subsection]
-. link:section/tools.adoc[Tools]
+. link:src/introduction.adoc[Introduction]
+.. link:src/introduction-sub.adoc[Introduction subsection]
+. link:src/contribute.adoc[Contributing to OpenRIF]
+.. link:src/contribute-ontology.adoc[Ontologies]
+.. link:src/contribute-guide.adoc[The Guide]
+. link:src/tools.adoc[Tools]
