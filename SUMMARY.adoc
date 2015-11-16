@@ -1,6 +1,0 @@
-= Summary
-
-. link:README.adoc[The OpenRIF Guide]
-. link:section/introduction.adoc[OpenRIF Introduction]
-.. link:section/introduction-sub.adoc[Introduction subsection]
-. link:section/tools.adoc[Tools]

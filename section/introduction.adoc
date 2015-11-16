@@ -1,3 +1,0 @@
-= OpenRIF Introduction
-
-The introduction.
