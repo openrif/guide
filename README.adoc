@@ -1,0 +1,3 @@
+= The OpenRIF Guide
+
+This is the OpenRIF guide.
