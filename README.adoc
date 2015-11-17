@@ -1,3 +1,6 @@
 = The OpenRIF Guide
 
 This is the OpenRIF guide. Based on GitBook: https://github.com/GitbookIO/gitbook
+
+Current site: http://www.openrif.org/guide/
+Current PDF version: http://www.openrif.org/guide/The_OpenRIF_Guide.pdf

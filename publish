@@ -4,6 +4,7 @@ git add -A | true
 git commit -m "Preparing to publish from master" | true
 
 gitbook build
+gitbook pdf . _book/The_OpenRIF_Guide.pdf
 
 git add -A | true
 git commit -m "GitBook built master" | true
