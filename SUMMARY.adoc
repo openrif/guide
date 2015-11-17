@@ -7,3 +7,4 @@
 .. link:src/contribute-ontology.adoc[Ontologies]
 .. link:src/contribute-guide.adoc[The Guide]
 . link:src/tools.adoc[Tools]
+.. link:src/tools-protege.adoc[Protege]
