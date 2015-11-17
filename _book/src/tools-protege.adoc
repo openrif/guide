@@ -1,0 +1,15 @@
+= The Protege Editor
+
+Download `Protege Desktop` (not WebProtege) from: http://protege.stanford.edu/products.php
+
+
+The larger download button will download the latest Protege version 5. Older versions are available from the link under the main download button.
+
+Downloading the `platform independent version` might be a better option but it depends on your use-case. The independent version is a zip file that you can unpack anywhere and run the program from that folder. This avoids any installation steps, allows you to easily have multiple versions of Protege without the installations affecting each other, etc. 
+
+The latest Protege 5 beta 17 can be downloaded directly from: https://github.com/protegeproject/protege/releases
+
+Older versions are here: http://protegewiki.stanford.edu/wiki/Protege_Desktop_Old_Versions
+
+
+
