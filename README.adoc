@@ -4,4 +4,4 @@ This is the OpenRIF guide. Based on GitBook: https://github.com/GitbookIO/gitboo
 
 link:http://www.openrif.org/guide[Current site]
 
-link: http://www.openrif.org/guide/The_OpenRIF_Guide.pdf[Current PDF version]
+link:http://www.openrif.org/guide/The_OpenRIF_Guide.pdf[Current PDF version]
